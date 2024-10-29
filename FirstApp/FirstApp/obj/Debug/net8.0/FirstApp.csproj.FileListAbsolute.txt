@@ -12,3 +12,4 @@ C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\FirstApp\FirstApp\obj\Debug\net8.0
 C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\FirstApp\FirstApp\obj\Debug\net8.0\FirstApp.pdb
 C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\FirstApp\FirstApp\obj\Debug\net8.0\FirstApp.genruntimeconfig.cache
 C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\FirstApp\FirstApp\obj\Debug\net8.0\ref\FirstApp.dll
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\FirstApp\FirstApp\obj\Debug\net8.0\FirstApp.sourcelink.json
