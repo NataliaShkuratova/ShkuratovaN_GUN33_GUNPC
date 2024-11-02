@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FirstApp")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("HomeworkArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8481cf1d42351bb842f7179c656f439962163493")]
-[assembly: System.Reflection.AssemblyProductAttribute("FirstApp")]
-[assembly: System.Reflection.AssemblyTitleAttribute("FirstApp")]
+[assembly: System.Reflection.AssemblyProductAttribute("HomeworkArrays")]
+[assembly: System.Reflection.AssemblyTitleAttribute("HomeworkArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

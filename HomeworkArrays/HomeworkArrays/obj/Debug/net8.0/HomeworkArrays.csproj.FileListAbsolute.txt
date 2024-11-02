@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkArrays\HomeworkArrays\bin\Debug\net8.0\HomeworkArrays.exe
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkArrays\HomeworkArrays\bin\Debug\net8.0\HomeworkArrays.deps.json
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkArrays\HomeworkArrays\bin\Debug\net8.0\HomeworkArrays.runtimeconfig.json
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkArrays\HomeworkArrays\bin\Debug\net8.0\HomeworkArrays.dll
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkArrays\HomeworkArrays\bin\Debug\net8.0\HomeworkArrays.pdb
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkArrays\HomeworkArrays\obj\Debug\net8.0\HomeworkArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkArrays\HomeworkArrays\obj\Debug\net8.0\HomeworkArrays.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkArrays\HomeworkArrays\obj\Debug\net8.0\HomeworkArrays.AssemblyInfo.cs
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkArrays\HomeworkArrays\obj\Debug\net8.0\HomeworkArrays.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkArrays\HomeworkArrays\obj\Debug\net8.0\HomeworkArrays.sourcelink.json
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkArrays\HomeworkArrays\obj\Debug\net8.0\HomeworkArrays.dll
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkArrays\HomeworkArrays\obj\Debug\net8.0\refint\HomeworkArrays.dll
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkArrays\HomeworkArrays\obj\Debug\net8.0\HomeworkArrays.pdb
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkArrays\HomeworkArrays\obj\Debug\net8.0\HomeworkArrays.genruntimeconfig.cache
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkArrays\HomeworkArrays\obj\Debug\net8.0\ref\HomeworkArrays.dll
