@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkCycles\HomeworkCycles\bin\Debug\net8.0\HomeworkCycles.exe
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkCycles\HomeworkCycles\bin\Debug\net8.0\HomeworkCycles.deps.json
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkCycles\HomeworkCycles\bin\Debug\net8.0\HomeworkCycles.runtimeconfig.json
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkCycles\HomeworkCycles\bin\Debug\net8.0\HomeworkCycles.dll
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkCycles\HomeworkCycles\bin\Debug\net8.0\HomeworkCycles.pdb
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkCycles\HomeworkCycles\obj\Debug\net8.0\HomeworkCycles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkCycles\HomeworkCycles\obj\Debug\net8.0\HomeworkCycles.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkCycles\HomeworkCycles\obj\Debug\net8.0\HomeworkCycles.AssemblyInfo.cs
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkCycles\HomeworkCycles\obj\Debug\net8.0\HomeworkCycles.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkCycles\HomeworkCycles\obj\Debug\net8.0\HomeworkCycles.sourcelink.json
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkCycles\HomeworkCycles\obj\Debug\net8.0\HomeworkCycles.dll
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkCycles\HomeworkCycles\obj\Debug\net8.0\refint\HomeworkCycles.dll
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkCycles\HomeworkCycles\obj\Debug\net8.0\HomeworkCycles.pdb
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkCycles\HomeworkCycles\obj\Debug\net8.0\HomeworkCycles.genruntimeconfig.cache
+C:\Users\Asus\Desktop\ShkuratovaN_GUN33_GUNPC\HomeworkCycles\HomeworkCycles\obj\Debug\net8.0\ref\HomeworkCycles.dll

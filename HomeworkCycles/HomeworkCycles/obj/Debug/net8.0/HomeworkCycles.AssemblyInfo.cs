@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("HomeworkArrays")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("HomeworkCycles")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30a437e09220fc88a995d9f105431f7e129296e9")]
-[assembly: System.Reflection.AssemblyProductAttribute("HomeworkArrays")]
-[assembly: System.Reflection.AssemblyTitleAttribute("HomeworkArrays")]
+[assembly: System.Reflection.AssemblyProductAttribute("HomeworkCycles")]
+[assembly: System.Reflection.AssemblyTitleAttribute("HomeworkCycles")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
