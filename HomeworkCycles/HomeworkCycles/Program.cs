@@ -59,7 +59,7 @@ namespace HomeworkCycle
 
             //    if (!Int32.TryParse(Console.ReadLine(), out var qwerty))
             //      или
-            //    if (!Char.TryParse(Console.ReadLine(), out var qwerty)) //В случае с Int32 не выдает ошибку на ввод чисел, поэтому нашла Char. Хотя не работает он так же, как и Int
+            //    if (!Char.TryParse(Console.ReadLine(), out var qwerty)) //В случае с Int32 не выдает ошибку на ввод чисел, поэтому нашла Char. Хотя не работает он так же, как и Int. Upd: Поняла, уже когда просматривала в репозитории: оба варианта неправильные, потому что один "не-число", а второй "не-символ"?
             //    {
             //        Console.WriteLine("Wrong password!");
             //        continue;
